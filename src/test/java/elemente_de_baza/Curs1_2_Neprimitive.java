@@ -29,6 +29,5 @@ public class Curs1_2_Neprimitive {
         int numar = scan.nextInt();
         System.out.println("Ai introdus numarul " + numar );
         // toate liniile formeaza o neprimitiva care afiseaza numarul introdus de la tastatura
-
     }
 }

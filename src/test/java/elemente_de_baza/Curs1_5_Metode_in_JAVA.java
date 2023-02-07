@@ -1,7 +1,6 @@
 package elemente_de_baza;
 
 public class Curs1_5_Metode_in_JAVA {
-
     public static void main(String[] args) {
         System.out.println("Aceasta este metoda MAIN ( implicita ), este predifinita si se apleaza din JDK");
 //  Metoda PRINTLN  nu se vede deoarece ea exista predefinita in JDK

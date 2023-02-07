@@ -1,7 +1,6 @@
 package elemente_de_baza;
 
 public class Curs1_4_Operatori_relationali {
-
     public static void main(String[] args) {
 
 // Operatorii relationali, realizeaza comparatia intre operanzi

@@ -1,7 +1,6 @@
 package elemente_de_baza;
 
 public class Curs1_3_Operatori_simpli {
-
     public static void main(String[] args) {
 
 //  Putem sa facem direct o operatie matematica ( cu operatori matematici ) si sa tiparim valoarea finala
