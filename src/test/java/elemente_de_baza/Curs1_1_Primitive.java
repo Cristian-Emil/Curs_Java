@@ -55,4 +55,5 @@ Exemple de dat primitive in liniile de mai jos
         boolean litera = true;
         System.out.println(litera);
     }
+
 }

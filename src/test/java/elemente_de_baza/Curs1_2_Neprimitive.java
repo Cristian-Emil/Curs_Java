@@ -30,4 +30,5 @@ public class Curs1_2_Neprimitive {
         System.out.println("Ai introdus numarul " + numar );
         // toate liniile formeaza o neprimitiva care afiseaza numarul introdus de la tastatura
     }
+
 }
