@@ -19,4 +19,5 @@ public class Curs2_4_Count_Digits2 {
         System.out.println("Number of digits = " + count);
     }
 //  CONTORIZAM NUMARUL DE ELEMENTE DIN SIRUL DAT - rezultatul este afisat pe ecran
+
 }

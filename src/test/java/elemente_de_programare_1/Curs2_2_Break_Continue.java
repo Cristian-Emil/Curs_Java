@@ -61,7 +61,6 @@ public class Curs2_2_Break_Continue {
     CONTIUNUE ii spune sa mearga mai departe dupa ce da de elementele conditionale peste care sare
 */
         System.out.println("");
-
-
     }
+
 }
