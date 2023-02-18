@@ -1,6 +1,6 @@
 package elemente_de_programare_2;
 
-public class Curs3_2_Count_Value_1 {
+public class Curs3_9_Count_Value_1 {
 
     public static void main(String[] args) {
         int numar = 123456789;
@@ -17,5 +17,7 @@ public class Curs3_2_Count_Value_1 {
             numar = numar/10;
         }
         return suma;
+
     }
+
 }

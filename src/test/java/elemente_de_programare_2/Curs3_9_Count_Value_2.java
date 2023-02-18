@@ -2,7 +2,7 @@ package elemente_de_programare_2;
 
 import java.util.Scanner;
 
-public class Curs3_2_Count_Value_2 {
+public class Curs3_9_Count_Value_2 {
 
 //  Aplicam varianta anterioara dar cu introducerea numerelor de la tastatura
 
@@ -20,5 +20,7 @@ public class Curs3_2_Count_Value_2 {
             suma = suma +numar%10;
         }
         System.out.println("Suma cifrelor este = " + suma);
+
     }
+
 }
