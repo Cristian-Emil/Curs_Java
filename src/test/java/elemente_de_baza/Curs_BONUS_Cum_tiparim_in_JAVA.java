@@ -27,7 +27,6 @@ Vezi ecxemplele de mai jos
 
         System.out.println(10.5+20.7);  // acesta tipareste rezulatul adunarii numerelor intregi
 
-
     }
 
 }

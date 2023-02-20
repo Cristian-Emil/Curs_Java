@@ -48,7 +48,6 @@ Exemplu de mai jos
         int rezultat2 = intreg * intreg;
         return rezultat2;
 
-
     }
 
 }

@@ -46,7 +46,6 @@ public class Curs1_3_Operatori_simpli {
     EXECUTAREA PRIMELOR LINII DE COMANDA SI NU CELE DEFINITE ANTERIOR.
 */
 
-
     }
 
 }
