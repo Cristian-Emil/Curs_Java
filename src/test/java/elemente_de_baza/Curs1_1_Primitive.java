@@ -54,6 +54,7 @@ Exemple de dat primitive in liniile de mai jos
 //  Caracterul "f" de tip BOOLEAN ( TRUE or FALSE ) se defineste si se tipareste
         boolean litera = true;
         System.out.println(litera);
+
     }
 
 }

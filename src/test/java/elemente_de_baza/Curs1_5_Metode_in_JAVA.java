@@ -47,6 +47,7 @@ Exemplu de mai jos
     static int MetodaReturnareINT ( int intreg){
         int rezultat2 = intreg * intreg;
         return rezultat2;
+
     }
 
 }

@@ -23,12 +23,13 @@ pt ca ea confirmare sau infirmare operatiei facute, ca e corecta sau nu.
 /* Operatori de logica:
     && - si
     || - sau
-*/
+ */
         boolean var1 = (5 == 4 ) && ( 5 == 5 );
         System.out.println(var1);
 
         boolean var2 = ( 5 == 4 ) || ( 5 == 5);
         System.out.println(var2);
+
     }
 
 }

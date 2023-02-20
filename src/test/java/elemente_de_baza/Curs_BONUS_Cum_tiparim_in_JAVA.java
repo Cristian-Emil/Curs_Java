@@ -12,7 +12,6 @@ public class Curs_BONUS_Cum_tiparim_in_JAVA {
 Vezi ecxemplele de mai jos
  */
 
-
     public static void main(String args[])
     {
 
