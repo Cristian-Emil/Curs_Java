@@ -18,6 +18,7 @@ public class Curs2_1_Loop3 {
             }
         }
 //  Daca "tricou = TRUE" afisam valorile "a", daca e FALSE atunci afisam valorile "b"
+
     }
 
 }

@@ -64,6 +64,7 @@ public class Curs2_3_Reverse_number {
             num4 /= 10;
         }
         System.out.println("Reversed Number: " + reversed4);
+
     }
 
 }
