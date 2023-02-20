@@ -30,6 +30,7 @@ pt ca ea confirmare sau infirmare operatiei facute, ca e corecta sau nu.
         boolean var2 = ( 5 == 4 ) || ( 5 == 5);
         System.out.println(var2);
 
+
     }
 
 }
