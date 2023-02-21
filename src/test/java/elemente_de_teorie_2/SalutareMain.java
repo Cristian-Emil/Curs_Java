@@ -22,8 +22,6 @@ public class SalutareMain {
         String salve4 = salut.salutare4("Constantin");
         System.out.println(salve4);
 
-
-
     }
 
 }

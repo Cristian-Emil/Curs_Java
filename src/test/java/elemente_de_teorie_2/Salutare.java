@@ -24,5 +24,4 @@ public class Salutare {
             return ( "Salutare domnule " + nume2);
         }
 
-
 }

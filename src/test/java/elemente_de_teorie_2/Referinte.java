@@ -32,4 +32,5 @@ public class Referinte {
         metoda2.dislpay();
 
     }
+
 }

@@ -27,6 +27,7 @@ public class Constructor1 {
     public static void main(String[] args) {
         Constructor1 constr = new Constructor1();    // accesam constructorul DEFAULT pentru valorile existente
          constr.displayData();
+
     }
 
 }

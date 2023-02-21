@@ -31,6 +31,7 @@ public class Constructor2 {
         constr.displayData();
 
     }
+
 }
 
 

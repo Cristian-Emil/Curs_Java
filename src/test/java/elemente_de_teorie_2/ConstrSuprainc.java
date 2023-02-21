@@ -54,5 +54,6 @@ public class ConstrSuprainc {
         ConstrSuprainc constr4 = new ConstrSuprainc( 9.5 , 103);
         constr4.display();                               //  este pentru Metoda 3
         System.out.println("");
+
     }
 }

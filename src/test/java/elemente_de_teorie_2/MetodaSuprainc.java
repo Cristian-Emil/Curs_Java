@@ -48,4 +48,5 @@ public class MetodaSuprainc {
         metoda.suma(9.5, 101);                        //  este pentru Metoda 4
 
     }
+
 }
