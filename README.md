@@ -4,3 +4,5 @@ Cursul este in limba romana si se adreseaza celor ce doresc sa invete si sa desl
 The course is in Romanian language and is aimed at those who want to learn and understand how to work in JAVA and JAVA-SELENIUM.
 
 Versiune în limba engleză găsiți pe internet (Youtube sau alt site), există o mulțime de exemple pentru asta / Version in english you can found on internet ( Youtube or another site ), exist a lot of example for this . 
+
+Exercitiile si cursurile sunt pe branch-ul "Java_Programming"
