@@ -5,6 +5,6 @@ The course is in Romanian language and is aimed at those who want to learn and u
 
 Versiune în limba engleză găsiți pe internet (Youtube sau alt site), există o mulțime de exemple pentru asta / Version in english you can found on internet ( Youtube or another site ), exist a lot of example for this . 
 
-Exercitiile si cursurile sunt pe branch-ul "Java_Programming"
+Exercitiile si cursurile sunt pe branch-ul "Java_Programming" din acest repository - ( Curs_JAVA_Programming )
 
-Exercises and programs are on the branck "Java_Programming"
+Exercises and programs are on the branck "Java_Programming" on this repository repository - ( Curs_JAVA_Programming )
